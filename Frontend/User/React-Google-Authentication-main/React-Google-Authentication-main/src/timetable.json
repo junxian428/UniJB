@@ -1,0 +1,38 @@
+[
+    {
+      "day": "Monday",
+      "classes": [
+        { "time": "09:00 - 10:00", "subject": "Math" },
+        { "time": "10:00 - 11:00", "subject": "Science" }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "classes": [
+        { "time": "09:00 - 10:00", "subject": "English" },
+        { "time": "10:00 - 11:00", "subject": "History" }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "classes": [
+        { "time": "09:00 - 10:00", "subject": "Math" },
+        { "time": "10:00 - 11:00", "subject": "Art" }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "classes": [
+        { "time": "09:00 - 10:00", "subject": "Science" },
+        { "time": "10:00 - 11:00", "subject": "PE" }
+      ]
+    },
+    {
+      "day": "Friday",
+      "classes": [
+        { "time": "09:00 - 10:00", "subject": "Math" },
+        { "time": "10:00 - 11:00", "subject": "Music" }
+      ]
+    }
+  ]
+  
